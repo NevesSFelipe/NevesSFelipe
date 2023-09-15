@@ -32,7 +32,7 @@ Desenvolvimento de novas funcionalidades em sistemas com regras de negócios div
 #### 06/2019 à 12/2020 – Informática para Internet – ETEC de Jundiaí
 
 ### Contatos
-Se interessou no meu perfil? Vamos marcar um bate papo sobre uma oportunidade de trabalho (CLT / PJ / Frelancer).
+Se interessou no meu perfil? Vamos marcar um bate papo sobre uma oportunidade de trabalho (CLT / PJ / freelancer).
 <div>
   <a href = "mailto:felipe.s.neves@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-s-neves-5858aa281/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
