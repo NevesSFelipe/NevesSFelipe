@@ -6,13 +6,12 @@ Me chamo Felipe S. Neves, tenho 29 anos, residente da cidade de Guarulhos/SP, e 
 
 
 ### Hard Skills
-- PHP
-- MYSQL
-- Javascript (ES6 / Jquery)
-- HTML
-- CSS
-- Bootstrap
-- Git
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>
 
 ### Experiências Profissionais
 #### 02/2023 à Atual - Desenvolvedor Backend PHP Treinne - Konecta
@@ -34,5 +33,9 @@ Desenvolvimento de novas funcionalidades em sistemas com regras de negócios div
 
 PS: Se interessou no meu perfil? Vamos marcar um bate papo sobre uma oportunidade de trabalho (CLT / PJ / Frelancer).
 
-
+### Contatos
+<div>
+  <a href = "mailto:felipe.s.neves@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-s-neves-5858aa281/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
