@@ -2,7 +2,7 @@
 
 ### Olá, DEV e Recrutadores!!!
 
-Me chamo Felipe S. Neves, tenho 29 anos, residente da cidade de Guarulhos/SP, e sou um desenvolvedor em constante evolução desde 2020. Durante esses 3 anos de experiência, adquiri conhecimentos em **PHP*, **Javascript puro**, **Jquery**, **Bootstrap** e banco de dados relacional com **MYSQL**
+Me chamo Felipe S. Neves, tenho 29 anos, residente da cidade de Guarulhos/SP, e sou um desenvolvedor em constante evolução desde 2020. Durante esses 3 anos de experiência, adquiri conhecimentos em **PHP**, **Javascript puro**, **Jquery**, **Bootstrap** e banco de dados relacional com **MYSQL**
 
 
 ### Hard Skills
@@ -31,9 +31,8 @@ Desenvolvimento de novas funcionalidades em sistemas com regras de negócios div
 #### 08/2023 à 12/2025 – Análise e Desenvolvimento de Sistemas – Estácio
 #### 06/2019 à 12/2020 – Informática para Internet – ETEC de Jundiaí
 
-PS: Se interessou no meu perfil? Vamos marcar um bate papo sobre uma oportunidade de trabalho (CLT / PJ / Frelancer).
-
 ### Contatos
+Se interessou no meu perfil? Vamos marcar um bate papo sobre uma oportunidade de trabalho (CLT / PJ / Frelancer).
 <div>
   <a href = "mailto:felipe.s.neves@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-s-neves-5858aa281/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
