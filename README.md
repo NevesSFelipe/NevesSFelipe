@@ -8,6 +8,9 @@ Me chamo Felipe S. Neves, tenho 29 anos, residente da cidade de Guarulhos/SP, e 
 ##
 
 ### Meus Projetos
+
+* #### Número Secreto - [Visualizar](https://github.com/NevesSFelipe/numero_secreto)
+
 * #### CRUD PHP - [Visualizar](https://github.com/NevesSFelipe/CRUD_PHP)
 
 * #### CRUD Python - [Visualizar](https://github.com/NevesSFelipe/CRUD_Python)
