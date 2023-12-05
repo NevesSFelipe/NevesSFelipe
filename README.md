@@ -9,6 +9,8 @@ Me chamo Felipe S. Neves, tenho 29 anos, residente da cidade de Guarulhos/SP, e 
 
 ### Meus Projetos
 
+* #### Ingressos - [Visualizar](https://github.com/NevesSFelipe/ingressos)
+
 * #### Carrinho de Compras - [Visualizar](https://github.com/NevesSFelipe/carrinho_compras)
   
 * #### Alugames - [Visualizar](https://github.com/NevesSFelipe/alugames)
