@@ -26,12 +26,6 @@ Em um campo tão dinâmico como o desenvolvimento de software, estou sempre busc
 
 Estou disponível para oportunidades de colaboração, projetos desafiadores e contribuições para o crescimento de equipes excepcionais. Se você está em busca de um desenvolvedor PHP dedicado e apaixonado, ficarei feliz em discutir como posso agregar valor ao seu projeto ou organização.
 
-📧 Contato:
-
-felipe.s.neves@outlook.com | https://www.linkedin.com/in/felipe-s-neves-5858aa281/
-
-Vamos conectar e transformar ideias em realidade!
-
 ##
 
 ### Meus Projetos
