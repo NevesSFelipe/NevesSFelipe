@@ -3,7 +3,34 @@
 
 ### Olá, DEV e Recrutadores!!!
 
-Me chamo Felipe S. Neves, tenho 29 anos, residente da cidade de Guarulhos/SP, e sou um desenvolvedor em constante evolução desde 2020. Durante esses 3 anos de experiência, adquiri conhecimentos em **PHP**, **Javascript puro**, **Jquery**, **Bootstrap** e banco de dados relacional com **MYSQL**
+🚀 Desenvolvedor PHP | Especialista em Transformar Códigos em Soluções 🌐
+
+Olá! Sou Felipe, um apaixonado programador #PHP com quatro anos de experiência na criação de soluções web robustas e eficientes. Minha jornada no desenvolvimento de software tem sido marcada por um comprometimento constante com a excelência técnica e a entrega de projetos de alta qualidade.
+
+💻 Experiência Técnica:
+
+- Desenvolvimento em #PHP nas versões 5.6, 7 e 8
+- Manipulação de banco de dados em #mysql
+- Construção / Manipulações de #API's eficientes e escaláveis para integração de sistemas
+- Manipulação de Interfaces com #HTML, #CSS, e #Javascript
+
+🔍 Foco na Qualidade:
+
+Acredito firmemente em escrever código limpo e modular, adotando as melhores práticas de desenvolvimento. Minha abordagem visa não apenas atender, mas superar as expectativas dos clientes, garantindo que cada projeto alcance seu máximo potencial.
+
+🚀 Comprometido com o Aprendizado Contínuo:
+
+Em um campo tão dinâmico como o desenvolvimento de software, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Acredito que o aprendizado contínuo é crucial para enfrentar os desafios em constante evolução do mundo da programação.
+
+💬 Aberto a Colaborações:
+
+Estou disponível para oportunidades de colaboração, projetos desafiadores e contribuições para o crescimento de equipes excepcionais. Se você está em busca de um desenvolvedor PHP dedicado e apaixonado, ficarei feliz em discutir como posso agregar valor ao seu projeto ou organização.
+
+📧 Contato:
+
+felipe.s.neves@outlook.com | https://www.linkedin.com/in/felipe-s-neves-5858aa281/
+
+Vamos conectar e transformar ideias em realidade!
 
 ##
 
