@@ -36,6 +36,8 @@ Vamos conectar e transformar ideias em realidade!
 
 ### Meus Projetos
 
+* #### Conta Bancária - [Visualizar](https://github.com/NevesSFelipe/conta_bancaria)
+
 * #### Amigo Secreto - [Visualizar](https://github.com/NevesSFelipe/amigo_secreto)
 
 * #### Ingressos - [Visualizar](https://github.com/NevesSFelipe/ingressos)
