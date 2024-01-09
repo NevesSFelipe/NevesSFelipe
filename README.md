@@ -1,34 +1,34 @@
 # Felipe S. Neves 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>
 
-### Olá, DEV e Recrutadores!!!
+### Hello DEV and Recruiters!!!
 
-🚀 Desenvolvedor PHP | Especialista em Transformar Códigos em Soluções 🌐
+🚀 PHP Developer | Specialist in Transforming Codes into Solutions 🌐
 
-Olá! Sou Felipe, um apaixonado programador #PHP com quatro anos de experiência na criação de soluções web robustas e eficientes. Minha jornada no desenvolvimento de software tem sido marcada por um comprometimento constante com a excelência técnica e a entrega de projetos de alta qualidade.
+Hello! I'm Felipe, a passionate #PHP programmer with four years of experience creating robust and efficient web solutions. My journey in software development has been marked by a constant commitment to technical excellence and the delivery of high-quality projects.
 
-💻 Experiência Técnica:
+💻 Technical Experience:
 
-- Desenvolvimento em #PHP nas versões 5.6, 7 e 8
-- Manipulação de banco de dados em #mysql
-- Construção / Manipulações de #API's eficientes e escaláveis para integração de sistemas
-- Manipulação de Interfaces com #HTML, #CSS, e #Javascript
+- Development in #PHP in versions 5.6, 7 and 8
+- Database manipulation in #mysql
+- Construction / Manipulation of efficient and scalable #API's for systems integration
+- Interface manipulation with #HTML, #CSS, and #Javascript
 
-🔍 Foco na Qualidade:
+🔍 Focus on Quality:
 
-Acredito firmemente em escrever código limpo e modular, adotando as melhores práticas de desenvolvimento. Minha abordagem visa não apenas atender, mas superar as expectativas dos clientes, garantindo que cada projeto alcance seu máximo potencial.
+I firmly believe in writing clean and modular code, adopting best development practices. My approach aims to not only meet, but exceed client expectations, ensuring that each project reaches its maximum potential.
 
-🚀 Comprometido com o Aprendizado Contínuo:
+🚀 Committed to Continuous Learning:
 
-Em um campo tão dinâmico como o desenvolvimento de software, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Acredito que o aprendizado contínuo é crucial para enfrentar os desafios em constante evolução do mundo da programação.
+In a field as dynamic as software development, I am always looking to learn new technologies and improve my skills. I believe that continuous learning is crucial to face the ever-evolving challenges of the programming world.
 
-💬 Aberto a Colaborações:
+💬 Open to Collaborations:
 
-Estou disponível para oportunidades de colaboração, projetos desafiadores e contribuições para o crescimento de equipes excepcionais. Se você está em busca de um desenvolvedor PHP dedicado e apaixonado, ficarei feliz em discutir como posso agregar valor ao seu projeto ou organização.
+I am available for collaboration opportunities, challenging projects and contributions to the growth of exceptional teams. If you are looking for a dedicated and passionate PHP developer, I would be happy to discuss how I can add value to your project or organization.
 
 ##
 
-### Meus Projetos
+### My Projects
 
 * #### Conta Bancária - [Visualizar](https://github.com/NevesSFelipe/conta_bancaria)
 
@@ -49,14 +49,14 @@ Estou disponível para oportunidades de colaboração, projetos desafiadores e c
 
 ##
 
-### Formação
-#### 08/2023 à 12/2025 – Análise e Desenvolvimento de Sistemas – Estácio
-#### 06/2019 à 12/2020 – Informática para Internet – ETEC de Jundiaí
+### Training
+#### 08/2023 à 12/2025 – Analysis and Systems Development – Estácio
+#### 06/2019 à 12/2020 – Internet Computing – ETEC of Jundiaí
 
 ##
 
-### Contatos
-Se interessou no meu perfil? Vamos marcar um bate papo sobre uma oportunidade de trabalho (CLT / PJ / freelancer).
+### Contacts
+Are you interested in my profile? Let's schedule a chat about a job opportunity (CLT / PJ / Freelancer).
 <div>
   <a href = "mailto:felipe.s.neves@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-s-neves-5858aa281/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
